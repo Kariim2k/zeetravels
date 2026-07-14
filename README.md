@@ -2,7 +2,7 @@
 
 A personal travel journal built with React where every destination tells a story.
 
-Rather than simply showcasing places I've visited, ZeeTravels captures the memories, experiences, and moments that made each trip unforgettable. Every destination includes a short overview, a detailed journal entry, photographs, travel dates, coordinates, and seasonal information.
+Rather than simply showcasing places been visited, ZeeTravels captures the memories, experiences, and moments that made each trip unforgettable. Every destination includes a short overview, a detailed journal entry, photographs, travel dates, coordinates, and seasonal information.
 
 ## ✨ Features
 
