@@ -1,21 +1,21 @@
-# 🌍 ZeeTravels
+#  ZeeTravels
 
 A personal travel journal built with React where every destination tells a story.
 
 Rather than simply showcasing places been visited, ZeeTravels captures the memories, experiences, and moments that made each trip unforgettable. Every destination includes a short overview, a detailed journal entry, photographs, travel dates, coordinates, and seasonal information.
 
-## ✨ Features
+##  Features
 
-- 📍 Interactive travel journal
-- 🗺️ Destination pages with unique URLs
-- 📸 Photo galleries for every location
-- 📖 Personal travel stories and memories
-- 🧭 Travel statistics (countries, states, photos)
-- 📅 Dates visited and seasonal information
-- 📱 Fully responsive design
-- ⚡ Fast performance with React and Vite
+-  Interactive travel journal
+-  Destination pages with unique URLs
+-  Photo galleries for every location
+-  Personal travel stories and memories
+-  Travel statistics (countries, states, photos)
+-  Dates visited and seasonal information
+-  Fully responsive design
+-  Fast performance with React and Vite
 
-## 🛠️ Built With
+##  Built With
 
 - React
 - Vite
@@ -23,7 +23,7 @@ Rather than simply showcasing places been visited, ZeeTravels captures the memor
 - JavaScript (ES6+)
 - CSS
 
-## 🌍 Destinations
+##  Destinations
 
 Current destinations include:
 
@@ -34,11 +34,11 @@ Current destinations include:
 - Accra (Ghana)
 - Cotonou (Benin)
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created to document my travels in a way that goes beyond photographs. Each destination reflects personal experiences, lessons, and memorable moments—from unexpected adventures and first-time experiences to cultural discoveries and everyday observations.
 
-## 🚀 Getting Started
+##  Getting Started
 
 Clone the repository:
 
