@@ -64,7 +64,7 @@ Build for production:
 npm run build
 ```
 
-## 📸 Preview
+##  Preview
 
 ZeeTravels is designed with a clean, minimalist aesthetic that lets the stories and photography take center stage, creating an experience similar to reading a personal travel journal.
 
