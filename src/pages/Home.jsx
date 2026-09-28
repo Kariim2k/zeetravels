@@ -42,7 +42,7 @@ export default function Home() {
                 fontSize: "1.05rem",
               }}
             >
-              Three countries, one camera roll at a time. This is a working
+              Four countries, one camera roll at a time. This is a working
               journal of trips taken, photographed, and written down before the
               details fade — the routes, the meals, the light at the wrong time
               of day.

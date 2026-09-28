@@ -1,3 +1,10 @@
+import Nairobi1 from "../assets/images/Nairobi/Nairobi1.jpeg";
+import Nairobi2 from "../assets/images/Nairobi/Nairobi2.jpeg";
+import Nairobi3 from "../assets/images/Nairobi/Nairobi3.jpg";
+import Nairobi4 from "../assets/images/Nairobi/Nairobi4.jpeg";
+import Nairobi5 from "../assets/images/Nairobi/Nairobi5.webp";
+import Nairobi6 from "../assets/images/Nairobi/Nairobi6.webp";
+
 import Ikogosi1 from "../assets/images/Ikogosi/Ikogosi1.webp";
 import Ikogosi2 from "../assets/images/Ikogosi/Ikogosi2.webp";
 import Ikogosi3 from "../assets/images/Ikogosi/Ikogosi3.webp";
@@ -31,12 +38,84 @@ import NYSC4 from "../assets/images/Yola/NYSC4.webp";
 export const destinations = [
   {
     id: 1,
+    slug: "Nairobi",
+    name: "Nairobi",
+    country: "Kenya",
+    countryCode: "KY",
+    coords: "1.2921° S, 36.8219° E",
+    dateVisited: "2026-08-06",
+    season: "Dry season",
+    excerpt:
+      "Where vibrant culture, breathtaking landscapes, and unforgettable experiences come together in the heart of Kenya.",
+    story: `I know I say all the time that I love to travel & I want to see the world, etc., but walahi, traveling is not that cute when you’re actually going through the motions.
+
+I think I’ll relate it to Pounded Yam. Or Fried Rice. There’s a lot that goes into the prep of these foods that’s not fun!
+
+Nonetheless, I wouldn’t change a thing about my recent 7-day trip across East Africa; Kenya & Rwanda specifically.
+
+It was super fun; I had 3 adorable friends in the travel group with me - Blurryface, Bolu, & Cybergenie- & their presence made every inconvenience feel worth it.
+
+I’d been looking forward to this break for months & I was stoked to explore with them.
+
+So now, I want you, my dear investor, to explore East Africa with me.
+
+Shall we?
+
+So the plan for this East Africa tour was a single day in Nairobi & the remaining 6 days in Rwanda.
+
+Let’s explore Nairobi…   🪄 1st stop, Museum of Illusions
+But wait.
+
+Before we found ourselves at the Museum of Illusions, we first headed to Sarit Center, a popular mall in Nairobi. There are so many things to do here, but our sole purpose for stopping at the mall was to convert the money we had to the local currency, Kenyan shillings.
+
+I don’t remember much about the conversion rate. But I remember handing in my $50 & getting KSh6,350 in return - 1st sign that Kenya was not a cheap country ‘cos I know for sure that would have a lot more zeros in naira.
+
+I then side-quested to the mall’s bookstore with Blurryface & spent about KSh4,000 on 3 books!
+
+1 for him & 2 for me (you see? expensive country).
+
+Next, The Giraffe Center, This one was a very short but memorable quest!
+
+You go in, pay for your ticket, wash your hands, collect food for the giraffes & go on to feed them.
+
+In case you don’t already know, I love animals & being so close to those huge & beautiful giraffes made me feel super warm & excited.
+
+And then I fed them too!
+
+The giraffe’s warm tongue touched my fingers & I didn’t mind that one bit. It’s a privilege, an honor, to do that for one of Earth’s wonders. I absolutely loved the 15 mins I spent in their presence.
+
+
+
+Last stop: Nairobi Safari Walk
+Here’s where you get to see many animals up close and bask in their presence.
+
+I saw a zebra up close & almost cried because I love those black & white beauties so much. We spent about 40 mins here identifying & learning about each animal.
+
+To be honest, I wasn’t paying much attention to the tour guide; I got too carried away admiring these creatures. Worth it, no regrets.
+
+Notes on Nairobi, Kenya
+I was here for only 24 hours, but I absolutely enjoyed exploring the city. However;
+
+1 day isn’t enough. If I have the means to come here again, I will.
+There are other places I didn’t get to see, like the Maasai Market, the Maasai Mara National Reserve, & just the regular day & night in the country.
+
+Kenya is cold - at least by Nigerian standards. They don’t have fans or ACs in their rooms because what’s the point?
+
+Kenya is expensive - my KSh4,000 bookstore side quest is a testament.
+
+Their streets & buildings are very modern & security seemed to be taken seriously everywhere we went.`,
+
+    tags: ["street", "food", "wildife"],
+    images: [Nairobi1, Nairobi2, Nairobi3, Nairobi4, Nairobi5, Nairobi6],
+  },
+
+  {
+    id: 2,
     slug: "Ikogosi",
     name: "Ikogosi",
     country: "Nigeria",
     countryCode: "NG",
-    state: "Ekiti",
-    coords: "7.3776° N, 3.9041° E",
+    coords: "7.3776° S, 3.9041° E",
     dateVisited: "2026-05-16",
     season: "Rainy season",
     excerpt:
@@ -65,8 +144,9 @@ Grass touching, over :(`,
     tags: ["hiking", "waterfall", "painting"],
     images: [Ikogosi1, Ikogosi2, Ikogosi3, Ikogosi4],
   },
+
   {
-    id: 2,
+    id: 3,
     slug: "Kunle Afolayan Film Village & Resort",
     name: "Kunle Afolayan Film Village & Resort",
     country: "Nigeria",
@@ -89,8 +169,9 @@ KAP is surrounded by animals. If animals are not your cup of tea… make them!
     tags: ["Train", "hiking", "pool", "cinematic"],
     images: [KAP1, KAP2, KAP3, KAP4],
   },
+
   {
-    id: 3,
+    id: 4,
     slug: "Accra",
     name: "Accra",
     country: "Ghana",
@@ -116,7 +197,7 @@ This place holds the history of Kwame Nkrumah, the Prime Minister & 1st Presiden
     images: [Accra1, Accra2, Accra3, Accra4],
   },
   {
-    id: 4,
+    id: 5,
     slug: "Cotonou",
     name: "Cotonou",
     country: "Benin",
@@ -147,7 +228,7 @@ Even though it was free, we had a museum guide giving us the tea on the differen
     images: [Cotonou1, Cotonou2, Cotonou3, Cotonou4],
   },
   {
-    id: 5,
+    id: 6,
     slug: "Oyo",
     name: "Oyo",
     country: "Nigeria",
@@ -174,7 +255,7 @@ Abandoned after the Ogunpa flood disaster (1980) swept away most of the animals 
     images: [OYO1, OYO2, OYO3, OYO4],
   },
   {
-    id: 6,
+    id: 7,
     slug: "Yola",
     name: "Yola",
     country: "Nigeria",
