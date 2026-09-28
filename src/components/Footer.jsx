@@ -14,7 +14,7 @@ export default function Footer() {
       >
         <span className="eyebrow">ZeeTravels &middot; a travel journal</span>
         <span className="eyebrow">
-          2 countries, 3 states logged, more to come...
+          3 countries, 3 states logged, more to come...
         </span>
       </div>
     </footer>
